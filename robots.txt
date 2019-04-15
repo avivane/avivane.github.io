@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /favicon.ico
+
+Sitemap: https://avivane.github.io/sitemap.xml
